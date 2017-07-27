@@ -8,5 +8,7 @@ public class Demo {
 		Integer i = 7;
 		System.out.println(i);
 	}
-
+	public void dev(){
+		System.out.println("创建dev分支");
+	}
 }
