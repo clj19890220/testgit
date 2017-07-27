@@ -5,7 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		String s = "Hello Github";
 		System.out.println(s);
-		Integer i = 3;
+		Integer i = 4;
 		System.out.println(i);
 	}
 
